@@ -1,0 +1,13 @@
+main {
+  text-align: center;
+}
+.par-button {
+  color: var(--primary);
+  background-color: var(--dark-blue);
+  border-radius: 4rem;
+  padding: 0.50rem 1.5rem;
+  width: 70%;
+  margin: auto;
+  margin-top: 1.50rem;
+  
+}
